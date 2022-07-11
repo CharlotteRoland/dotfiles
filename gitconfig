@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cr.charlotte.roland@gmail.com
+	name = Charlotte Roland
